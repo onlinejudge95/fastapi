@@ -2,6 +2,7 @@
 
 ## Latest Changes
 
+* [pull] master from tiangolo:master. PR [#24](https://github.com/onlinejudge95/fastapi/pull/24) by [@pull[bot]](https://github.com/apps/pull).
 * 🌐 Add Portuguese translation of Deployment. PR [#1374](https://github.com/tiangolo/fastapi/pull/1374) by [@Serrones](https://github.com/Serrones).
 * 👷 Set GitHub Action Label Approved to run daily, not every minute. PR [#2163](https://github.com/tiangolo/fastapi/pull/2163) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Remove pr-approvals GitHub Action as it's not compatible with forks. Use the new one. PR [#2162](https://github.com/tiangolo/fastapi/pull/2162) by [@tiangolo](https://github.com/tiangolo).
